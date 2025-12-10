@@ -1,0 +1,1 @@
+# minimalresolution_rust
